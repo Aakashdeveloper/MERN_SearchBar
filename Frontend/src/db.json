@@ -1,0 +1,71 @@
+{
+    "cities": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore",
+        "Pune",
+        "Chandigarh"
+    ],
+    "hotels":[
+        {
+            "_id": "5e99a1e8e0dcfa91d353e7b8",
+            "id": "18731537",
+            "name": "Empire Restaurant",
+            "locality": "Rajajinagar",
+            "city": "Bangalore",
+            "thumb": "https://b.zmtcdn.com/data/pictures/1/50471/bcf68da39dcfb0fe5bcfb742c337385e.jpg",
+            "aggregate_rating": "4.4",
+            "rating_text": "Very Good"
+          },
+          {
+            "_id": "5e99a1e8e0dcfa91d353e7b9",
+            "id": "61381",
+            "name": "Kota Kachori",
+            "locality": "Koramangala 6th Block",
+            "city": "Bangalore",
+            "thumb": "https://b.zmtcdn.com/data/pictures/1/61381/67f358c29c0497e73556490bafc9f374.jpg",
+            "aggregate_rating": "4.2",
+            "rating_text": "Very Good"
+          },
+{
+    "_id": "5e99a1e8e0dcfa91d353e7b1",
+    "id": "18453961",
+    "name": "Food Adda",
+    "locality": "Borivali West",
+    "city": "Mumbai",
+    "thumb": "https://b.zmtcdn.com/data/pictures/7/18690357/0df7f4ca0c645a68a1657b1e69b015fa.jpg",
+    "aggregate_rating": "4.2",
+    "rating_text": "Very Good"
+  },
+  {
+    "_id": "5e99a1e8e0dcfa91d353e7b2",
+    "id": "35105",
+    "name": "McDonald's",
+    "locality": "Mira Road",
+    "city": "Mumbai",
+    "thumb": "https://b.zmtcdn.com/data/pictures/chains/9/35079/2be67efb4302119d103affa1c5f85ee0.jpg",
+    "aggregate_rating": "4.1",
+    "rating_text": "Very Good"
+  },
+  {
+    "_id": "5e99a1e8e0dcfa91d353e7b3",
+    "id": "40853",
+    "name": "Hardeep Punjab",
+    "locality": "Sion",
+    "city": "Mumbai",
+    "thumb": "https://b.zmtcdn.com/data/pictures/3/40853/6575f9f7e5b67f8b43364fff733b898c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "aggregate_rating": "4.4",
+    "rating_text": "Very Good"
+  },
+  {
+    "_id": "5e99a1e8e0dcfa91d353e7b4",
+    "id": "41769",
+    "name": "Shalimar",
+    "locality": "Mohammad Ali Road",
+    "city": "Mumbai",
+    "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/38430/c657dda522a081edaec24884fb0dcebb.jpg",
+    "aggregate_rating": "4.0",
+    "rating_text": "Very Good"
+  }
+    ]
+}
